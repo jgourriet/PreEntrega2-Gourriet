@@ -652,7 +652,7 @@ footer {
     padding: 0 10px;
     font-size: 1rem;
     width: 100%;
-    height: auto;
+    height: 600px;
   }
   .foot-cont {
     flex-direction: column;
