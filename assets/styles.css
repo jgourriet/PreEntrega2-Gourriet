@@ -444,6 +444,11 @@ footer {
   cursor: pointer;
 }
 
+.copy {
+  width: 400px;
+  text-align: center;
+}
+
 @media (max-width: 1250px) {
   nav {
     background-color: rgba(0, 0, 0, 0.257);
