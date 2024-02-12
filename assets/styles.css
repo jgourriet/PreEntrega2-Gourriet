@@ -656,5 +656,9 @@ footer {
   }
   .foot-cont {
     flex-direction: column;
+    width: 90%;
+  }
+  .foot-links {
+    width: 90%;
   }
 }
