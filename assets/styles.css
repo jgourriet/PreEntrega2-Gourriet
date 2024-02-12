@@ -499,7 +499,7 @@ footer {
     display: flex;
     order: 2;
     cursor: pointer;
-    margin-right: 300px;
+    margin-right: 200px;
     transition: transform 80ms ease-in;
   }
   .burger:active {
