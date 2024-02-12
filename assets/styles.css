@@ -605,18 +605,16 @@ footer {
 }
 
 @media (max-width: 560px) {
-  .comprar-borrar-btn button {
-    font-size: 0.6rem;
+  .cart-i {
+    margin-left: 200px;
   }
   .hero h1 {
     margin-top: 50px;
     font-size: 4rem;
   }
   .hero p {
-    font-size: 0.8rem;
-  }
-  .carrito-cont {
-    width: 90%;
+    font-size: 1rem;
+    width: 360px;
   }
   .categorias {
     padding: 0;
@@ -628,7 +626,7 @@ footer {
   .cat-cont {
     padding: 0 10px;
     margin-top: 30px;
-    grid-template-columns: 4fr 4fr;
+    grid-template-columns: 1fr 1fr 1fr;
   }
   .card {
     padding: 20px 5px;
@@ -642,7 +640,7 @@ footer {
   }
   .card-precio,
   .btn-card {
-    font-size: 0.8rem;
+    font-size: 1rem;
   }
   .precio-btn-card {
     padding: 5px;
