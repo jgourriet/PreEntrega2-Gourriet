@@ -606,6 +606,9 @@ footer {
   .hero {
     height: auto;
   }
+  .burger img {
+    width: 50px;
+  }
   .cart-i {
     margin-left: 200px;
   }
